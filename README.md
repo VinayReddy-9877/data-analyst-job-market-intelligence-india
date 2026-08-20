@@ -161,7 +161,7 @@ dashboard/
 
 #### Salary Insights
 
-![Salary Insights](dashboard/Dashboard_Images/Salary%20Insights.png)
+![Salary Insights](dashboard/Dashboard_Images/Salary_Insights.png)
 
 #### Trends & Statistical
 
@@ -283,7 +283,7 @@ Data Analyst Job Market Intelligence Skill, Experience and Salary Analytics — 
 │   ├── Dashboard_Images/
 │   │   ├── Executive Overview.png
 │   │   ├── Role & Location.png
-│   │   ├── Salary Insights.png
+│   │   ├── Salary_Insights.png
 │   │   ├── Skills & Experience.png
 │   │   └── Trends & Statistical.png
 │   ├── DataAnalystJobMarketIntelligence.pbix
@@ -365,3 +365,5 @@ The repository provides:
 Salary availability is limited relative to the full analytical dataset, so salary findings are intentionally presented with coverage and sample-size context.
 
 The project focuses on observed analyst-job demand during the stated collection window and does not treat descriptive trends as forecasts.
+
+
