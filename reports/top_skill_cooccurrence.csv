@@ -1,0 +1,31 @@
+skill_x,skill_y,jobs_requiring_both
+Python,SQL,420
+Power BI,SQL,383
+Excel,SQL,330
+SQL,Tableau,323
+Power BI,Tableau,274
+Excel,Power BI,263
+Power BI,Python,254
+SQL,Statistics,234
+Python,Tableau,225
+Python,Statistics,196
+Excel,Tableau,185
+Excel,Python,183
+Excel,Statistics,150
+Power BI,Statistics,149
+Data Modeling,SQL,147
+Statistics,Tableau,145
+ETL,SQL,123
+Data Modeling,Power BI,117
+SQL,Snowflake,113
+Machine Learning,Python,104
+Machine Learning,SQL,101
+AWS,SQL,93
+Azure,SQL,90
+Data Modeling,Python,90
+Data Warehousing,SQL,90
+ETL,Python,89
+AWS,Python,86
+Excel,Forecasting,81
+Forecasting,SQL,81
+Azure,Power BI,80

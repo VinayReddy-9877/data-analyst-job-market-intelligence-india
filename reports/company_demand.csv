@@ -1,0 +1,1367 @@
+company_name,job_count,role_families,specific_cities
+Amazon,134,5,4
+Genpact,116,6,9
+EXL,82,6,7
+Amgen,80,8,1
+JPMorganChase,78,9,3
+Accenture,69,4,4
+Citigroup,65,10,5
+Barclays,62,8,5
+Acura Solution,31,4,8
+Citi,29,10,6
+Capco,28,4,3
+pwc,28,6,5
+American Express,26,4,2
+Ecolab,26,3,2
+ABB,21,3,1
+Jobgether,21,6,0
+Guidehouse,19,2,2
+People First Consultants,19,5,4
+PricewaterhouseCoopers,19,6,0
+Luxoft,18,3,6
+Thermo Fisher Scientific,18,3,1
+Cognizant,17,3,5
+Paytm,17,5,3
+State Street,17,5,4
+Dentsu,16,4,3
+Cigna Group,15,4,2
+Novartis,15,4,1
+TriNet,15,5,1
+Financial Services,14,3,0
+Fiserv,14,3,1
+Hitachi,14,4,2
+Mantras2Success,14,4,6
+SkySun,14,2,3
+Bajaj Finance,13,2,0
+FedEx,13,5,3
+Hitachi Energy,13,4,5
+Invesco,13,5,1
+"NTT America, Inc.",13,6,4
+NextHire,13,3,4
+Zensar Technologies,13,3,1
+Roche,12,3,3
+Allegiance Benefit Plan Management,11,4,2
+Goldman Sachs,11,2,3
+Happiest Resume,11,2,4
+Mastercard,11,5,3
+Medtronic,11,2,1
+NielsenIQ,11,3,3
+Wells Fargo Bank,11,3,0
+Ameriprise Financial,10,5,2
+Broadridge,10,2,2
+Cohere Health,10,5,1
+Cushman & Wakefield,10,3,3
+Deutsche Bank,10,6,2
+Elsevier,10,1,3
+KPMG Ukraine,10,3,4
+Kroll,10,3,3
+NetApp,10,3,1
+Okta,10,3,1
+Parexel,10,4,1
+RECEX,10,3,5
+TestHiring,10,3,5
+mufgub,10,3,1
+ASSPL - Karnataka,9,2,2
+Honeywell,9,2,3
+MUFG Pension & Market Services,9,3,0
+Mitsubishi UFJ Financial Group,9,3,0
+Synchrony,9,3,2
+Wells Fargo,9,4,2
+db,9,5,3
+Airbus,8,1,0
+Caterpillar Inc.,8,3,1
+Clarivate,8,3,1
+Conduent,8,2,2
+Kotak Mahindra Bank,8,3,2
+MM Staffing & Career Consultants,8,2,2
+Mancraft Consulting,8,3,4
+MiniMed,8,2,1
+NatWest Group,8,3,2
+Northern Trust,8,4,2
+Quality Engineering,8,2,0
+Sanofi,8,3,1
+Sprinklr,8,4,3
+Talent Leads Consultants,8,2,1
+WSP,8,6,2
+Weekday AI,8,3,5
+mdtkangaroo,8,2,1
+Ameriprise,7,4,0
+Avery Dennison,7,2,2
+BSR & Co,7,3,4
+Bristol Myers Squibb,7,4,1
+CSB Bank,7,3,3
+Colgate-Palmolive,7,1,1
+Cummins,7,4,2
+Cummins Inc.,7,3,1
+Emerson,7,2,3
+GSK,7,5,1
+HP,7,3,1
+ICE,7,3,2
+MUFG Global Service,7,2,2
+Moody's,7,5,2
+Novo Nordisk,7,2,1
+Photon,7,2,0
+Photon Group,7,2,0
+SimCorp,7,2,1
+SopraSteria1,7,2,1
+Syneos Health,7,3,2
+UnitedHealth Group,7,3,3
+Zensar,7,2,0
+ADCI - BLR 14 SEZ - F07,6,3,2
+Albertsons Companies India,6,2,1
+Capgemini,6,3,0
+Caterpillar,6,3,1
+Cisco,6,3,1
+Commonwealth Bank of Australia,6,2,1
+Cornerstone OnDemand,6,2,2
+Criteo,6,2,1
+CrowdStrike,6,2,1
+DTCC,6,3,1
+Headout,6,2,1
+Hewlett Packard Enterprise,6,2,2
+Ingram Micro,6,2,2
+OneMagnify,6,2,1
+Palo Alto Networks,6,1,1
+SWISS RE,6,3,2
+Stryker,6,1,1
+Talent Pro,6,3,2
+Thomson Reuters,6,3,2
+nVent,6,3,1
+ADCI - Karnataka,5,1,2
+Adani Group,5,3,3
+Addepar,5,2,1
+Bosch Group,5,3,2
+Cencora,5,3,1
+Eaton Corporation,5,3,1
+Egon Zehnder,5,2,1
+Equitas Small Finance Bank,5,2,0
+Ethos Life,5,3,1
+Eurofins,5,2,1
+Finkraft,5,2,1
+Firstsource,5,3,3
+Franklin Templeton,5,2,1
+GCC India,5,1,1
+Havas,5,2,2
+Hunarstreet Technologies Pvt Ltd,5,1,3
+InTouch CX,5,4,1
+Johnson & Johnson,5,3,2
+Lonza,5,2,1
+Merck,5,2,1
+Merkle Science,5,2,2
+Micron,5,2,1
+Milestone Online Technology,5,3,4
+Morgan Stanley,5,4,1
+Morningstar,5,3,1
+Neolytix,5,2,1
+PerkinElmer,5,2,3
+PhonePe,5,3,1
+Rubrik,5,4,1
+Scan-IT,5,2,2
+Sia,5,2,1
+The Cigna Group,5,3,2
+The Nielsen Company,5,2,2
+UPS,5,4,0
+Vrinda International,5,2,2
+WSP USA,5,5,2
+WSP in Africa,5,5,1
+We Search,5,2,4
+Yubi,5,3,3
+Zeta Global,5,3,1
+Zynga,5,1,1
+cba,5,2,1
+ecsme,5,2,1
+lplfinancial,5,1,1
+ADCI - Karnataka - A66,4,2,1
+ADCI HYD 13 SEZ,4,1,1
+Adani,4,2,1
+Apex Group,4,3,1
+Apna,4,3,1
+AppsForBharat,4,3,0
+Arcadis,4,1,1
+Aspyra Hr Services,4,1,3
+AtkinsRéalis,4,1,1
+CGI,4,2,2
+CIBC India,4,2,1
+Clean Harbors,4,1,1
+Clearwater Analytics,4,3,2
+CoverGo,4,1,1
+DC Consultants,4,3,3
+Danaher Corporation,4,1,2
+Dataeconomy,4,2,3
+Episode Six,4,1,1
+GLOBALFOUNDRIES,4,3,1
+Gartner,4,2,1
+Goodyear,4,1,1
+HEXAWARE,4,1,0
+Haleon,4,3,1
+Hewlett Packard (HP),4,2,2
+In Touch,4,4,1
+Insurity,4,2,1
+JLL,4,2,1
+KPMG,4,3,4
+Kadel Labs,4,2,3
+Kraft Heinz,4,1,1
+Laminaar Aviation Infotech India,4,1,1
+Lowe s,4,1,1
+MAXGEN TECHNOLOGIES PRIVATE LIMITED,4,2,0
+Micron Technology,4,2,1
+Nextpower,4,3,1
+Nielsen,4,2,2
+Portcast,4,1,2
+Qualitykiosk Technologies Private Limited,4,1,3
+RELX,4,1,4
+RELX INC,4,1,3
+RTX,4,3,1
+Right Advisors,4,1,2
+SLB,4,2,3
+Schneider Electric,4,1,1
+Smiths Detection Group,4,1,1
+TE Connectivity,4,3,1
+TRG Screen,4,1,1
+Teamlease Digital Private Limited,4,2,0
+Teleperformance,4,3,0
+Tide,4,2,2
+Trigent Software Private Limited,4,3,1
+Wissen Technology,4,2,2
+Worldpay,4,2,2
+theapexgroup,4,2,2
+weekday-1,4,3,3
+2028 Takeda Innovations India,3,1,0
+ASSPL - Karnataka - B56,3,1,1
+Aeries Technology,3,2,1
+Albemarle,3,1,2
+Align Technology,3,2,3
+Allegion,3,1,1
+Altera Corporation,3,1,1
+Amazon FinOps,3,1,0
+Amex,3,3,2
+Arcadia,3,1,1
+Arcana Analytics,3,1,1
+Arrow,3,2,1
+AstraZeneca,3,2,2
+Avantor,3,2,1
+BNP Paribas,3,1,2
+Black Box,3,2,1
+BlackRock,3,1,2
+Brillminds Global,3,1,1
+Central Business Solutions,3,2,0
+Ciklum,3,2,0
+Cognex,3,1,1
+Cognex Corporation,3,1,1
+Colruyt Group,3,1,2
+Columbia Sportswear,3,2,1
+Consilio,3,3,1
+DBS Bank,3,2,0
+Ebizon,3,1,2
+FNZ,3,2,2
+Fidelity International,3,1,1
+First Advantage,3,2,1
+Flexera Software,3,1,1
+Foundever,3,3,2
+GetixHealth,3,2,1
+Glance,3,1,1
+Greif,3,2,1
+HSBC,3,1,1
+Hexaware Technologies,3,1,0
+Huron,3,2,2
+Hyatt,3,1,2
+JB Pointdexter,3,1,1
+Kyndryl,3,1,1
+London Stock Exchange Group,3,3,0
+MSD,3,2,1
+Madison Logic,3,2,1
+McCormick & Company,3,3,1
+Modernizing Medicine,3,2,1
+Multitude,3,1,1
+Müller`s Solutions,3,1,0
+NEC Software Solutions,3,1,1
+NICE,3,2,1
+NNE,3,2,0
+Nasdaq,3,2,2
+New Era Technology,3,2,1
+Oceaneering,3,2,1
+Onclusive,3,2,1
+Oracle,3,2,1
+Payoneer,3,2,1
+Peak Hire Solutions,3,3,1
+Post A Resume,3,3,2
+Precision Medicine Group,3,2,1
+Prudential,3,2,1
+Quantiphi,3,1,1
+Ralph Lauren,3,2,1
+Redwood Software,3,1,1
+Regnology,3,1,1
+Rentokil Initial,3,2,0
+Rippling,3,3,1
+Risosu Consulting LLP,3,2,1
+Russell Investments,3,3,1
+Sandisk,3,2,1
+Sandoz,3,2,1
+Sanofi: R&D-Driven and AI-Powered Biopharmaceutical Company,3,2,1
+Smarsh,3,1,1
+Solventum,3,2,0
+Sparix Global.,3,2,0
+Staffnixcom,3,2,3
+Strada,3,2,1
+TELUS Digital AI Data Solutions,3,1,3
+Takeda,3,1,1
+Talisman HR Solutions,3,2,1
+TaskUs,3,1,1
+Tech Smcsquared Gcc,3,2,1
+Techwave,3,2,1
+ThoughtFocus,3,1,1
+Topcoder,3,3,1
+Trelleborg Group,3,2,0
+Trellix,3,1,1
+Tribute Technology,3,3,1
+Tsaaro,3,2,3
+Turing Jobs Feed,3,2,1
+Unisys,3,2,1
+Vodafone,3,2,1
+WTW,3,2,2
+Wahed,3,2,1
+ZAGENO,3,1,1
+Zoetis,3,2,1
+dbs,3,2,2
+dunnhumby,3,2,1
+emagine,3,2,2
+emagine Polska,3,2,3
+nextracker,3,2,1
+travelhrportal,3,3,2
+2coms,2,1,1
+ACKO,2,1,1
+ADCI - BLR 14 SEZ,2,1,1
+ADCI HYD 20 SEZ,2,1,1
+ADP Private Limited,2,2,1
+ADTM Adenza Technology de Mexico S de RL de CV,2,1,2
+ARTECH INFOSYSTEMS PRIVATE LIMITED,2,2,2
+AVEVA,2,1,1
+Accellor,2,1,1
+Accenture India Private Limited,2,1,1
+Acme Services Private Limited,2,2,2
+Acumen360 Consulting & HR Solutions,2,2,2
+AddWeb Solution,2,1,1
+Adient,2,1,1
+Adobe,2,1,1
+Advarra,2,1,1
+Agilent Technologies,2,2,1
+Agiliad Technologies,2,2,2
+Aliqan Services,2,1,2
+All Generation Tech,2,2,1
+Alpha Sense,2,2,0
+AlphaSense India,2,2,0
+Altera Semiconductor,2,1,1
+Amazon Dev Center India - Hyderabad,2,2,1
+AmerisourceBergen,2,2,1
+Amherst College,2,2,0
+Analog Devices,2,1,1
+Anaplan,2,1,1
+Anchanto,2,1,1
+Appian,2,1,1
+Applied Information Sciences,2,1,0
+Applied Materials,2,2,1
+Apraava Renewable Energy,2,1,2
+Ara Resources Private Limited,2,1,2
+Are you in?,2,2,1
+Arrow Electronics,2,2,1
+Atlys,2,1,1
+Avaloq,2,1,1
+Avnet,2,2,1
+Azira,2,1,1
+BNY Mellon International Operations India Private Limited,2,2,2
+BP,2,1,1
+Baker Tilly,2,1,1
+Blackbaud,2,1,1
+Blend 360,2,1,1
+Blink Health,2,1,0
+Bread Financial,2,2,1
+CODEMONK,2,1,1
+CWAN,2,2,2
+Candescent,2,1,1
+Capita,2,1,1
+Caratlane,2,1,1
+Care Access,2,1,0
+Career Creed HR Services,2,2,2
+Carrier,2,2,1
+Carrier Corporation,2,2,2
+Carrier Global,2,2,2
+CertifyOS,2,1,1
+Chevron,2,1,1
+Chubb,2,1,1
+Circle K Stores,2,2,0
+ClearView Healthcare Partners,2,1,1
+CloudSEK,2,1,1
+Colgate-Palmolive Company,2,1,1
+Comcast,2,1,1
+Community Empowerment Lab,2,1,1
+Computershare,2,1,1
+Conduent Business Services India LLP,2,2,2
+Consilio LLC,2,1,1
+Coupang Internal,2,2,1
+Criteo Technology,2,2,1
+Cyncly,2,1,1
+DNEG,2,1,0
+DP World,2,1,1
+DXC Technology,2,1,1
+Danaher,2,1,1
+Davies,2,1,1
+Delhi,2,1,1
+Deloitte,2,1,1
+Deutsche Börse Group,2,1,1
+Diebold Nixdorf,2,2,2
+DrinkPrime,2,2,1
+Dynarex Technologies PvtLtd,2,1,1
+ENH iSecure,2,1,1
+ERM,2,1,1
+EVERSANA,2,1,1
+EXC Managed Services,2,2,1
+EY,2,2,1
+Easemytrip com,2,1,2
+Ebizon Net Info,2,1,1
+Elastic,2,1,1
+Emerson Electric,2,1,2
+Emirates NBD,2,1,0
+Empower Retirement,2,1,0
+Epicor,2,1,1
+Episode Six US,2,1,1
+EquiLend,2,1,1
+Equifax,2,1,1
+Esyasoft,2,1,2
+Evnek,2,1,1
+ExcelSoft Technologies,2,1,1
+Exioms Technology,2,1,2
+Experis,2,2,1
+Expleo,2,1,2
+FM India,2,1,1
+FOURESS SYNERGY,2,1,0
+FairMoney,2,1,0
+FinThrive,2,2,0
+Flatirons Solutions,2,1,1
+Flix,2,1,1
+Fortive,2,1,1
+Fortrea,2,1,1
+Freyr Energy,2,2,1
+GEA,2,1,1
+Game District,2,2,0
+General Mills,2,1,1
+Genl Mills India Priv,2,2,0
+Graviton Research Capital,2,1,0
+Graviton Research Capital LLP,2,1,1
+Guardian Life,2,1,1
+Guidewire Software,2,1,1
+Harmony United Psychiatric Care,2,1,1
+Harris Computer,2,1,0
+Harsco India Private Limited,2,2,1
+Health Catalyst,2,1,1
+Hevo Data,2,1,1
+Hilti,2,2,0
+Hilton,2,1,1
+Hirestar job Bank,2,2,1
+IBS Software,2,1,0
+IFF,2,2,1
+Indegene,2,1,1
+Indiana University Health,2,2,1
+Informa Group,2,1,1
+Informa Group Plc,2,1,1
+Insight Global,2,2,1
+Instawork,2,1,1
+Intuit,2,1,1
+JB Poindexter (India) Private Limited,2,1,0
+Jade Global,2,1,2
+JazzX AI,2,1,1
+Johnson Controls,2,1,1
+JumpCloud,2,1,0
+KLDiscovery,2,1,0
+Kaseya,2,1,1
+Kayzen,2,1,0
+Khan Academy,2,1,1
+Kimberly-Clark,2,1,1
+Kissht,2,2,1
+Kong,2,1,1
+Kuehne+Nagel,2,2,2
+LRN Corporation,2,1,1
+LSEG,2,2,1
+LUXASIA,2,1,1
+Lam Research,2,2,1
+Landor,2,1,1
+LaunchDarkly,2,1,0
+Levi Strauss & Co.,2,1,1
+LexisNexis Risk Solutions,2,1,1
+LogicMonitor,2,1,1
+Logitech,2,1,1
+Lowes Services India Private limited,2,1,1
+Loyalty Juggernaut,2,2,1
+"Loyalty Juggernaut, Inc",2,2,1
+MMS,2,1,1
+MRI,2,2,1
+Magna International,2,1,1
+Marlabs,2,2,1
+Marmon Holdings,2,1,1
+Marriott,2,1,2
+Marriott Hotels Resorts,2,1,2
+Marriott International,2,1,2
+Mastercard US,2,2,2
+McDonalds in India,2,2,1
+Medline,2,2,1
+MerQube,2,1,1
+MiQ,2,1,1
+Michelin,2,2,1
+MillerKnoll,2,1,1
+Moniepoint,2,1,1
+Mumbai Rozgaar,2,1,1
+NCR Vyoix,2,1,2
+Nalco Water,2,2,2
+"Nasdaq: Stock Market, Data Updates, Reports & News",2,2,1
+Nayara Energy,2,1,1
+Ness Digital Engineering,2,1,1
+NewRocket,2,1,0
+Nium,2,1,1
+OIP Insurtech,2,1,1
+ORBIT & SKYLINE,2,1,1
+Ocasa,2,1,1
+OctagoTech - Odoo Partner USA,2,1,1
+Officeworks,2,1,1
+OsbIndia,2,2,1
+PS Human Resources and Consultants,2,1,1
+PVH,2,1,1
+Pattern,2,1,1
+Portage Point Partners,2,1,1
+Pplanet HR Services,2,2,1
+Priceline,2,1,1
+Prodigal,2,1,1
+Pure Storage,2,2,1
+Quess Corp Limited,2,1,2
+RTX Corporation,2,2,1
+Razorpay,2,1,1
+Regal Rexnord,2,1,1
+Rehlko,2,1,1
+RingCentral,2,1,1
+Roblox,2,1,1
+Rockwell Automation,2,2,1
+Rolls-Royce,2,1,1
+S&P Global,2,2,2
+SBI Card,2,2,2
+SEI,2,1,1
+SLK Software,2,1,1
+SPAR Solutions,2,1,1
+Salesforce,2,1,1
+Salesforce: The #1 AI CRM,2,1,2
+Sanofi Group,2,1,1
+Saxo Bank,2,1,1
+Security and Intelligence Services,2,1,1
+SentinelOne,2,1,1
+SequoiaAT,2,1,1
+Shell,2,1,1
+Showpad,2,1,1
+Sia Partners,2,1,1
+Signify,2,2,2
+Softobiz,2,2,1
+Spaulding Ridge,2,1,1
+Squarepoint Capital,2,2,1
+Standard Chartered,2,2,2
+Stantec,2,2,1
+StockX,2,1,1
+Synechron,2,1,1
+TJX,2,2,1
+TJX India,2,1,1
+TSS Consultancy Pvt. Ltd.,2,1,1
+TTEC India Customer Solutions Private Limited,2,1,2
+Takeda Pharmaceutical,2,1,1
+Tala,2,2,1
+Tata Capital,2,1,1
+Taylor and Francis,2,1,1
+Tekwissen India,2,1,0
+Tenacious Techies,2,1,1
+The Citco Group,2,2,2
+The Goodyear Tire & Rubber Company,2,1,1
+The Toro Company,2,1,1
+The Vanguard Group,2,2,1
+Time Hack Consulting,2,2,1
+Titanium Consulting,2,1,1
+Toast,2,1,1
+TopGear Consultants Private Limited,2,1,2
+TransUnion,2,1,1
+Travel Leaders Group,2,2,1
+Travelex,2,1,1
+Travelwings,2,2,1
+Trinity Life Sciences,2,1,1
+TripleLift,2,1,1
+Two95 International Inc.,2,2,1
+UKG,2,1,1
+Valeo,2,1,1
+Valtech,2,1,1
+Vanguard,2,2,1
+Vantiva,2,1,1
+Varite,2,1,2
+Veeva Systems,2,2,1
+Veradigm,2,1,1
+Verisk,2,1,1
+WPP,2,1,1
+Warner Bros,2,2,1
+WeWork India,2,1,1
+WebBee Global,2,2,1
+Welo Global,2,1,1
+Welocalize,2,1,1
+Whatfix,2,2,2
+Wipro,2,1,1
+Wolters Kluwer,2,2,0
+WorldQuant,2,1,1
+Worldwide Clinical Trials,2,1,1
+XenonStack,2,2,1
+abglobal,2,1,1
+agilent,2,2,1
+alliancedata,2,2,1
+columbiasportswearcompany,2,2,1
+fil,2,1,1
+fractal,2,1,1
+healthcare,2,2,1
+hpe,2,1,2
+integrichain1,2,2,1
+iprogrammer,2,1,1
+nagarro1,2,2,2
+newperkinelmer,2,2,2
+russell,2,2,1
+symplr,2,1,1
+travclan,2,2,1
+vwr,2,2,2
+2070health,1,1,1
+3 KUBED CONSULTING INDIA PRIVATE LIMITED,1,1,1
+3M,1,1,0
+3i Infotech Limited,1,1,0
+8080-Johnson & Johnson Legal Entity,1,1,1
+A.P. Moller - Maersk,1,1,1
+A300-Good Year India Limited,1,1,0
+ABRACON,1,1,0
+ADCI - Maharashtra,1,1,1
+ADCI HYD 13 SEZ - H84,1,1,1
+ADCI HYD 16 SEZ,1,1,1
+ADCI MAA 15 SEZ,1,1,1
+ADM,1,1,1
+ADP,1,1,1
+AGCO Corporation,1,1,1
+AKDN,1,1,0
+ALIQAN Technologies,1,1,1
+AMOLTECHNOLOGIES,1,1,1
+ANZ Banking Group,1,1,1
+APEXX Global,1,1,1
+AQM Technologies Private Limited,1,1,1
+AQR,1,1,1
+AQR Arbitrage,1,1,1
+AQR India,1,1,1
+ARCIS e Services,1,1,0
+ASM Technologies,1,1,1
+ASSPL - Maharashtra - C32,1,1,1
+ASSPL - Telangana,1,1,1
+ASSPL - Telangana - D82,1,1,1
+AVI-SPL India,1,1,1
+AVIGNAAI PRIVATE LIMITED,1,1,1
+Accelint,1,1,1
+Accelleron,1,1,1
+Accelya,1,1,0
+Accenture India Private,1,1,1
+Acesoft Labs India Private Limited,1,1,1
+Actide International,1,1,1
+Aditi Tech Consulting Private Limited,1,1,1
+Advanced Energy,1,1,1
+Aggne,1,1,1
+Airpay Services,1,1,1
+Alcon,1,1,1
+Alcon Laboratories,1,1,1
+Alembic Pharmaceuticals,1,1,1
+Algoworks,1,1,1
+Alight,1,1,1
+Allen Online,1,1,1
+AllianceBernstein LP,1,1,0
+Altinvest Online Platform Pvt Ltd,1,1,1
+Amazon - Middle Mile,1,1,0
+Amazon Dev Center India - Hyderabad - A85,1,1,1
+Amazon Development Centre Private Limited - S55,1,1,1
+Amazon Now,1,1,0
+Amazon Pay Private Limited,1,1,1
+Amazon Pay Private Limited - D32,1,1,1
+Amgen Technology Private Limited,1,1,1
+Amicus India,1,1,1
+Amukha Technologies Private Limited,1,1,1
+Antal International,1,1,1
+Antier Solutions Pvt. Ltd,1,1,1
+Apollo Global,1,1,1
+Apollo Management Holdings,1,1,0
+Applicate,1,1,1
+Apprication pvt ltd,1,1,1
+"Arcwood Environmental, LLC",1,1,1
+Arista Networks,1,1,1
+Aristok Technologies,1,1,1
+Arminus,1,1,1
+Artefact,1,1,1
+Arthan,1,1,1
+Arting Digital,1,1,1
+Astellas Pharma,1,1,1
+Athelas,1,1,1
+Athena Health,1,1,1
+Ather Energy,1,1,1
+Atkinsr Alis,1,1,1
+Augusta Infotech,1,1,1
+Autoplant Systems,1,1,1
+Avaloq1,1,1,1
+Avasant,1,1,1
+Avient,1,1,1
+Avigna AI,1,1,1
+Avinash Jagdishchandra Gupta Hiring For GeoQuant A fitch Solution company,1,1,0
+Axis My India,1,1,1
+Axtria,1,1,1
+Ayr Energy,1,1,1
+BMW TechWorks,1,1,1
+BNB Land Consultancy,1,1,1
+BPM,1,1,1
+Badger Infrastructure Solutions,1,1,1
+Bankai Infotech,1,1,1
+Bansal Roofing Products,1,1,1
+Barracuda Networks,1,1,1
+Baxter,1,1,0
+"BayApps, Inc.",1,1,0
+Beghou Consulting,1,1,0
+Beiersdorf,1,1,1
+Benchmark Gensuite,1,1,1
+Benchmark IT Solutions,1,1,1
+Beworld web services,1,1,1
+Bill Gosling Outsourcing,1,1,1
+Black Duck Software,1,1,1
+"Black Duck Software, Inc.",1,1,1
+Blueberry Digital Labs,1,1,1
+Bodycraft,1,1,1
+Booking Holdings,1,1,1
+Bradken,1,1,1
+Buckman International,1,1,0
+Bullpen Capital,1,1,0
+Bunge,1,1,1
+Bureau Veritas,1,1,1
+Byteridge,1,1,0
+CACI,1,1,1
+CDM Smith,1,1,1
+CSM Technologies Private Limited,1,1,1
+Calpion Software Technologies,1,1,1
+Calypso Technology,1,1,1
+Campus Management,1,1,1
+Candor Health,1,1,1
+Cantor Fitzgerald,1,1,1
+Capgemini Technology Services India Limited,1,1,1
+Carelon Global Solutions,1,1,0
+Cargill,1,1,1
+Carlisle Companies,1,1,1
+Cars24,1,1,1
+Center for Computational Technologies,1,1,1
+CheQ,1,1,1
+Chevron Corporation,1,1,1
+Chloe,1,1,1
+Cigna,1,1,1
+Circles,1,1,0
+Citco,1,1,1
+Climate Collective Foundation,1,1,1
+Codezeros,1,1,1
+Coditas Technologies,1,1,1
+Colan Infotech,1,1,1
+Colan Infotech Private Limited,1,1,1
+Colliers,1,1,1
+Colruyt IT Consultancy India,1,1,1
+Commergence,1,1,0
+Concentrix,1,1,0
+Confido Health,1,1,1
+Confluencr Global Influencer Marketing Agency,1,1,1
+Connect Pro Srl,1,1,1
+Continental,1,1,1
+Corporate Website of Orange,1,1,1
+Corteva,1,1,1
+Corteva Agriscience,1,1,1
+Cosmoquick,1,1,1
+Cotiviti,1,1,0
+Coupang,1,1,1
+Credeau,1,1,1
+Credit Acceptance Careers,1,1,0
+Credit Acceptance Corporation,1,1,0
+Creeno Solutions Private Limited,1,1,1
+Cube84,1,1,0
+Cubist Systematic Strategies,1,1,1
+Cytiva Life Science,1,1,1
+DAZN,1,1,1
+DBS Bank India Limited,1,1,1
+DHL,1,1,1
+DS Group,1,1,0
+DS Smith,1,1,0
+Dautom,1,1,1
+DealerOn,1,1,1
+DealerSocket,1,1,1
+Deccan AI Experts,1,1,1
+Decipher Zone Technologies,1,1,1
+Definian,1,1,1
+Delhivery,1,1,1
+Delta Capita,1,1,1
+Delta Exchange,1,1,0
+Dev Technosys Pvt. Ltd.,1,1,1
+Dev Technosys- CMMI Level 3,1,1,1
+DexCare,1,1,1
+Diebold,1,1,1
+Digantara,1,1,1
+Digital Twin,1,1,1
+Digitide Solutions Limited,1,1,1
+Diraa HR Services,1,1,1
+Dolby,1,1,1
+DoorDash,1,1,1
+DoorDash India,1,1,1
+Dozee,1,1,1
+Dreampath Services,1,1,1
+DriveX,1,1,1
+E Zest,1,1,1
+EAX Media,1,1,0
+Ebix Software India Private Limited,1,1,1
+Edelweiss Global Markets,1,1,1
+Electronic Arts,1,1,1
+Elemica Solutions,1,1,1
+Eli Lilly And Company,1,1,1
+Eli Lilly Services India,1,1,0
+Embark GCC,1,1,1
+Emergent Labs,1,1,1
+Emids,1,1,0
+Emotions for Business,1,1,1
+Empower,1,1,1
+Enable Data Incorporated,1,1,0
+Encora Technologies Pte Ltd,1,1,1
+Endava,1,1,1
+Enormous Enterprise LLC,1,1,1
+Enphase Energy,1,1,1
+Ensono,1,1,1
+Equiniti,1,1,0
+Ericsson,1,1,1
+Estuate Software,1,1,1
+Esyasoft Technologies Private Limited,1,1,1
+Ethos,1,1,1
+Etraveli Group,1,1,1
+Euclid Innovations Private Limited,1,1,1
+Evernorth,1,1,1
+Evoke HR Solutions,1,1,1
+Exly,1,1,1
+Expedia,1,1,1
+Expedia Group,1,1,1
+Experian,1,1,1
+ExxonMobil,1,1,1
+FIS,1,1,1
+FIS Capital Markets,1,1,0
+Fastenal,1,1,1
+Fastly,1,1,1
+Ferguson,1,1,1
+Fidelity National Information Services,1,1,1
+Fireblaze AI School,1,1,1
+First Citizens India,1,1,0
+Flare Capital Partners,1,1,1
+Flexera,1,1,1
+Flight Centre,1,1,1
+Flipkart,1,1,1
+Fluence Energy,1,1,1
+Fluor,1,1,1
+Foray Software Private Limited,1,1,1
+Ford,1,1,1
+Fortive Corporation,1,1,0
+Foundation SVKM,1,1,0
+Foyforyou,1,1,1
+Franklin Templeton India,1,1,1
+Fresenius Medical Care,1,1,0
+Friar Service India,1,1,0
+Frontline Managed Services,1,1,1
+Fulcrum Digital,1,1,1
+Fusemachines,1,1,1
+Fusion CX,1,1,1
+Fynd,1,1,1
+GMR Group,1,1,1
+Gainwell Technologies,1,1,1
+Gameskraft,1,1,1
+Genesis Global,1,1,0
+Genpact India,1,1,0
+Gieom Business Solutions Pvt Ltd,1,1,0
+Global Industrial,1,1,1
+Global Leader in Product Lifecycle Management Software,1,1,1
+Global Payments,1,1,1
+Global Payments Inc.,1,1,1
+GoDaddy,1,1,0
+Goodyear Corporate,1,1,1
+Gratitude Inc,1,1,1
+Great Techno Tycoon,1,1,1
+Greenlight Planet,1,1,1
+GroundTruth,1,1,0
+Groundtruth India Pvt Ltd,1,1,0
+Growbiz Solutions,1,1,1
+Guardian Life Insurance Company,1,1,1
+HARMAN International,1,1,1
+HCL Technologies Limited,1,1,1
+HCL Technologies Ltd,1,1,1
+HDFC Bank,1,1,1
+HDFC ERGO General Insurance,1,1,0
+HEN Technologies,1,1,0
+HOLOSTIK,1,1,1
+Harman Becker Automotive Systems Manufacturing Kft,1,1,0
+Harris,1,1,0
+Harrison Steel,1,1,1
+Harvey,1,1,1
+Havells,1,1,1
+HealthEdge,1,1,1
+HealthEdge: Healthcare SaaS To Accelerate Digital Transformation,1,1,1
+Highrise Solutions LLP,1,1,1
+HireMap,1,1,1
+Hogarth World Wide,1,1,1
+Honeywell Aerospace,1,1,1
+Howmet Aerospace,1,1,1
+Hudson Data,1,1,0
+Hunt Remotely,1,1,0
+Huron Consulting Services,1,1,0
+Hyatt Place,1,1,0
+IDFC FIRST Bank,1,1,1
+IIDE,1,1,1
+IKA India,1,1,1
+IKS Health,1,1,1
+IMA India,1,1,1
+IQ-EQ,1,1,1
+ISS STOXX,1,1,1
+ITC WORLDWIDE,1,1,1
+Icertis,1,1,1
+Immerse Analytics,1,1,1
+Impact Guru,1,1,1
+Impetus Technologies,1,1,1
+InRisk Labs,1,1,1
+Inchcape Shipping Services,1,1,1
+Incontact,1,1,1
+Indovinya,1,1,1
+Inficore Soft,1,1,0
+Infineon,1,1,1
+Informa,1,1,1
+Infosys,1,1,0
+Infotel UK,1,1,0
+Inizio,1,1,1
+Innefu Labs Limited,1,1,1
+InnovMetric Logiciels|Software,1,1,0
+InnovMetric Software Inc.,1,1,1
+IntegriChain,1,1,1
+Intercontinental Exchange,1,1,1
+Interscripts,1,1,1
+"Interscripts, Inc.",1,1,1
+InvestCloud,1,1,1
+InvestCloud Careers,1,1,1
+J&J Family of Companies,1,1,1
+JAGGAER,1,1,1
+JB Pointdexter & Co,1,1,1
+JRD Systems,1,1,1
+Jabil,1,1,1
+Jefferies,1,1,1
+Jetking Technologies Private Limited,1,1,1
+Jinvani Channel,1,1,1
+Jobgenix,1,1,1
+Jobskey Consultancy,1,1,1
+Johnson and Johnson,1,1,1
+Juniper Square,1,1,1
+"KMK Consulting, Inc.",1,1,0
+KPMG Assurance and Consulting Services LLP,1,1,1
+Kanerika Software Private Limited,1,1,1
+Kemin,1,1,1
+Kenvue,1,1,0
+Kevit.io,1,1,1
+Kidde-Fenwal,1,1,0
+Kushal's Fashion Jewellery,1,1,1
+Kvc Consultants Ltd,1,1,1
+LT-Larsen & Toubro,1,1,0
+Lancesoft India Private Limited,1,1,1
+Landmark Group,1,1,0
+Laundryheap,1,1,1
+Lead India,1,1,1
+LeadSquared,1,1,1
+Learntastic,1,1,0
+Leegality,1,1,0
+Lingaro,1,1,0
+Lingaro Group,1,1,0
+Lloyds Bank,1,1,0
+Lokal App,1,1,1
+Louis Dreyfus Company,1,1,1
+Lowe's Home Centers,1,1,1
+Lumilens,1,1,1
+Lumoslogic,1,1,1
+Luxoft India Llp,1,1,1
+M&G Global Services,1,1,1
+MCTC,1,1,0
+METRO Global Solution Center IN,1,1,1
+MRI Software,1,1,1
+MSCI,1,1,1
+MSCI Recruitment 2026 – Associate Software Engineer (AI & Python ...,1,1,1
+MTAB Technology Center P Ltd,1,1,1
+MUFG Americas,1,1,1
+MUFG Bank,1,1,1
+MUFG Global Service (MGS),1,1,1
+MYK LATICRETE,1,1,1
+Maersk,1,1,0
+"Magna International, Inc",1,1,0
+Magnera Corporation,1,1,1
+Makro Group,1,1,1
+Mantra Aura,1,1,1
+Mapps It Services,1,1,1
+Marriott Tech Accelerator,1,1,1
+Mashreq Bank,1,1,1
+Mattel,1,1,1
+Mattel Inc,1,1,1
+Mavenbmc Faridabad,1,1,1
+Mayura Consultancy Services,1,1,0
+McKinsey & Company,1,1,0
+Medhavi WISE,1,1,1
+MediaMint,1,1,1
+MediaRadar,1,1,1
+"Medpace, Inc.",1,1,1
+Mepa2z Llp,1,1,1
+Mercer,1,1,1
+Micro Academy India Private Limited,1,1,1
+Microsoft,1,1,0
+Miles Education,1,1,1
+Millenium Infotech,1,1,1
+Milliman,1,1,1
+MiraTech,1,1,1
+Mlops Solutions Pvt Ltd,1,1,1
+Modern Healthcare Financial Experiences are Built with Zelis,1,1,1
+Momentive,1,1,0
+Momentum Group Limited,1,1,1
+MongoDB,1,1,1
+MoonPay,1,1,1
+Mott Macdonald,1,1,1
+Moving Walls,1,1,0
+Mspire Ventures,1,1,1
+MyCareernet Hiring Now,1,1,0
+Myntra,1,1,1
+NAM Info Pvt Ltd,1,1,1
+NMIMS,1,1,1
+NSM Services,1,1,0
+NTT,1,1,1
+NTT DATA North America,1,1,1
+NanoNets,1,1,1
+Navan,1,1,1
+Navrang HR Solutions,1,1,1
+NebuLogic Technologies,1,1,1
+Nestle,1,1,1
+Netomi,1,1,1
+Neudesic Technologies Private Limited,1,1,1
+Newfold Digital Philippines Inc,1,1,1
+Newmark,1,1,1
+News Corp,1,1,1
+NextWave Consulting Ltd,1,1,1
+Nifty’s,1,1,1
+Nirmitee.io,1,1,1
+Nitika Pharmaceutical Specialities,1,1,1
+Novel Office,1,1,1
+Novrelease,1,1,0
+NuageCX Consulting,1,1,1
+Numerix,1,1,0
+ONIT,1,1,1
+Oaktree Capital Management,1,1,1
+OculusIT,1,1,1
+Oddup,1,1,0
+Old National Bank,1,1,1
+Onity Group Inc.,1,1,1
+OnlineJobs.PH,1,1,1
+Onzestt Services India Private Limited,1,1,1
+Opalus Investments LLC,1,1,1
+Opella Healthcare IN P.,1,1,1
+Optum India,1,1,1
+Orange,1,1,1
+Otsuka Pharmaceutical India Pvt Ltd,1,1,1
+Ouryahoo,1,1,0
+Outpost VFX,1,1,1
+Owens & Minor,1,1,0
+PIPEx,1,1,1
+PNB MetLife,1,1,0
+PVH Corp.,1,1,1
+PaisaSmart,1,1,1
+Parker Group,1,1,0
+PassionMojo,1,1,1
+Pavago,1,1,0
+Pearce Services Global (PSG),1,1,1
+Pearl,1,1,0
+Pearson,1,1,1
+Pennant Technologies Private Limited,1,1,1
+Peopleclick Techno Solutions Pvt.ltd,1,1,0
+Peoplefy Infosolutions Private Limited,1,1,1
+PepsiCo,1,1,1
+Perceptive Analytics,1,1,1
+Pericent BPMDMS software,1,1,1
+Persistent Systems,1,1,1
+Petrofac,1,1,1
+Phenom People,1,1,1
+Pilot Thomas Logistics,1,1,0
+PineBridge Investments,1,1,1
+Pinnacle Reliability India,1,1,0
+Piramal Pharma,1,1,0
+PlaySimple Games,1,1,1
+Plum Benefits,1,1,1
+Pmc Rubber Chemicals,1,1,1
+Point72,1,1,1
+Pointo,1,1,1
+Policy Planner,1,1,1
+Precision AQ,1,1,0
+Pretium Enterprise Services,1,1,1
+PrismHR,1,1,1
+Private Limited,1,1,0
+ProArch,1,1,1
+ProcDNA,1,1,1
+"Propel Consulting Services, Inc.",1,1,1
+Pss Global,1,1,1
+PulsePoint,1,1,1
+Q2 Software,1,1,1
+QAgile Services,1,1,0
+Qnity,1,1,1
+Quantum IT Innovation,1,1,0
+Qube Research & Technologies,1,1,1
+Quess Enterprise,1,1,1
+Qure.ai,1,1,1
+REA,1,1,1
+RED Global,1,1,1
+RSM,1,1,1
+RWS,1,1,0
+RWS Group,1,1,1
+Radiansys Technologies,1,1,1
+ReSource Pro,1,1,0
+Redfoxa Careerlink Pvt Ltd,1,1,1
+Refining Skills Academy,1,1,1
+Rehiko,1,1,1
+RemoteLegalStaff,1,1,0
+Renesas,1,1,1
+Renesas Electronics,1,1,1
+Rentomojo,1,1,1
+Rezo.ai,1,1,1
+Riveron,1,1,0
+Roboyo,1,1,1
+RoshanSpace,1,1,1
+Röhlig Blue Services India,1,1,0
+SOURCBOX SOLUTION,1,1,0
+SPECTRAFORCE,1,1,1
+SVKM's Narsee Monjee Institute of Management Studies,1,1,1
+SYSTRA,1,1,1
+Saama Technologies,1,1,0
+Sage,1,1,1
+Saxon Global INC,1,1,1
+Scale IR,1,1,0
+Scopely,1,1,0
+ScoutforU Consultants,1,1,1
+Seattle New Media,1,1,0
+Seeking Alpha,1,1,0
+ServiceTitan,1,1,1
+Seternity Solutions,1,1,1
+Seven N Half Private Limited,1,1,1
+Siemens 1,1,1,1
+Silicon Labs Pvt.Ltd,1,1,1
+Simform,1,1,1
+Simulationhub,1,1,1
+Sisco Jobs,1,1,1
+Skan AI,1,1,1
+Skeps,1,1,1
+Skillmine Technology,1,1,1
+Skillz,1,1,1
+Skillz Inc.,1,1,1
+Skylink Fibernet,1,1,1
+Smart Work Consultants,1,1,1
+Smith+Nephew,1,1,1
+Software Engineering Firm,1,1,1
+SoftwareOne,1,1,1
+SolarWinds,1,1,1
+Sole Point,1,1,1
+Solenis,1,1,1
+Sonata Software,1,1,1
+Sophos,1,1,0
+Sopra Steria,1,1,1
+Spectra Technovision,1,1,1
+Spikewell,1,1,1
+SquadStack,1,1,1
+Stats Perform,1,1,1
+StatusNeo,1,1,0
+Stillfront Group,1,1,1
+Stolt-Nielsen Digital Innovation Centre,1,1,1
+Stripe,1,1,1
+Sulzer,1,1,0
+Sun Dew Solutions Private Limited,1,1,1
+Sun Life,1,1,1
+SuperProcure,1,1,1
+Supplier.io,1,1,1
+TAAS Partners,1,1,0
+TD Synnex,1,1,0
+TELUS International AI Inc,1,1,0
+TIN Capital,1,1,1
+TJX Companies,1,1,1
+TMF,1,1,1
+TalentOla,1,1,0
+Talentone HR Consulting LLP,1,1,1
+Tap Invest,1,1,1
+Tech Firefly,1,1,0
+Tech Mahindra,1,1,0
+TechBiz Global GmbH,1,1,0
+Techcom Solutions India Private Limited,1,1,1
+TekClan,1,1,1
+TekFriday,1,1,1
+Telemploy,1,1,1
+Terralogic Software Solutions,1,1,1
+Test,1,1,1
+The Blue Venture Fund,1,1,1
+The Citco Group Limited,1,1,1
+The Depository Trust & Clearing Corporation,1,1,1
+The Depository Trust & Clearing Corporation (DTCC),1,1,1
+The Guitar Center Company,1,1,1
+The Hartford,1,1,1
+TheHiveCareers,1,1,1
+Thomasmount Consulting,1,1,1
+Tokopedia,1,1,1
+Toolyt,1,1,1
+TopGrep Tech Private Limited,1,1,1
+Tops Infosolutions,1,1,1
+Tradeweb,1,1,1
+Tradeweb Markets,1,1,1
+Trane Technologies,1,1,1
+TransPerfect,1,1,1
+Treebo Hospitality Ventures,1,1,0
+Tricon Energy,1,1,1
+Truviq Systems,1,1,1
+Tyson Foods,1,1,1
+Tyson IT solutions India,1,1,1
+U.S. Bank,1,1,1
+Uber,1,1,1
+Ubisoft,1,1,1
+Unacademy,1,1,1
+Unison Group,1,1,0
+United Airlines,1,1,0
+Unity SFB,1,1,0
+Universal Education,1,1,1
+University Living,1,1,1
+VDart Software Services Private Limited,1,1,1
+VDart Software Services Pvt. Ltd.,1,1,1
+Valenta,1,1,1
+ValueMomentum,1,1,1
+Vbeyond Corporation,1,1,1
+Vedita Ventures,1,1,1
+Vendavo,1,1,1
+Vera Bradley,1,1,1
+Verifone,1,1,1
+Verisk Analytics,1,1,1
+Viavi Solutions,1,1,0
+Vikash Technologies,1,1,1
+Vinayak Outsourcing Works,1,1,1
+ViralChilly,1,1,1
+Visa,1,1,1
+Vistance Networks,1,1,1
+Vistex,1,1,1
+Vistex Career,1,1,1
+Vois,1,1,1
+Volante Technologies,1,1,0
+Volvo Group India Private Limited,1,1,1
+WHEEBOX,1,1,1
+WNS,1,1,1
+WPP Production,1,1,1
+Wabtec,1,1,1
+Wabtec Corporation,1,1,1
+Wadhwani AI,1,1,1
+Warner Bros. Discovery,1,1,1
+Weatherford,1,1,1
+Webkit24,1,1,1
+WeblineIndia,1,1,1
+Welo Data,1,1,0
+Western Digital,1,1,1
+Whisk Software Private Limited,1,1,1
+Whitecrow,1,1,1
+WillWare Technologies,1,1,1
+Wise,1,1,1
+Wishup,1,1,0
+Wk,1,1,1
+Workfreaks Business Services Private Limited,1,1,1
+Wroots Global Private Limited,1,1,1
+"XPO, Inc.",1,1,1
+Xapads,1,1,1
+YO AI Labs,1,1,1
+Yahoo,1,1,0
+Yash Technologies,1,1,1
+YouTrip,1,1,1
+ZH healthcare,1,1,1
+Zealsoft Technology Solutions Private Limited,1,1,1
+Zelis,1,1,0
+Zepz,1,1,1
+alegeus,1,1,1
+amadeus,1,1,1
+amdocs,1,1,1
+apexx,1,1,1
+arena-investors-lp,1,1,1
+aresmgmt,1,1,1
+ascendion,1,1,1
+astreya,1,1,1
+azenta,1,1,1
+barracuda-networks-inc,1,1,1
+bigsteptech,1,1,1
+billgosling,1,1,1
+bolna,1,1,1
+cambridgetechnology,1,1,1
+cieloprojects,1,1,1
+circlelogistics1,1,1,1
+clarisights,1,1,1
+codvo-team,1,1,1
+colliers1,1,1,1
+cotality,1,1,1
+cubic,1,1,1
+dexcarehealth,1,1,1
+diconium,1,1,1
+dowjones,1,1,1
+dynata,1,1,1
+eBay,1,1,1
+ePS Software,1,1,1
+eProductivity Software,1,1,1
+elemica,1,1,1
+elevancehealth,1,1,1
+fampay,1,1,1
+flutterbe,1,1,1
+getinz-people,1,1,1
+gh,1,1,1
+gmx.io,1,1,1
+hackajob,1,1,1
+hbfuller,1,1,1
+innovaccer-analytics,1,1,1
+issgovernance,1,1,1
+kaufmanrossin,1,1,1
+lbg,1,1,1
+learners point.org,1,1,1
+lilly,1,1,1
+mdlz,1,1,1
+metromakro,1,1,1
+mobility,1,1,1
+modeln,1,1,1
+modmed,1,1,1
+ncratleos,1,1,1
+nttlimited,1,1,1
+nucleusteq,1,1,1
+nxwave,1,1,1
+openlane,1,1,1
+parker,1,1,0
+pavebank,1,1,0
+people10,1,1,1
+pinebridge,1,1,1
+pinnacle,1,1,1
+protiviti india,1,1,1
+protolabs,1,1,1
+qadinc,1,1,1
+quickenloans,1,1,1
+r3 Consultant,1,1,1
+razorpaysoftwareprivatelimited,1,1,1
+remote next,1,1,0
+remote zest jobs,1,1,0
+remotestar-team,1,1,1
+robusta,1,1,0
+sedintechnologies-talent,1,1,1
+sensor-tower,1,1,1
+sgs,1,1,1
+slice,1,1,1
+suntekai,1,1,0
+svb,1,1,1
+target.com,1,1,1
+thgrp,1,1,1
+tieto2,1,1,1
+ubisoft2,1,1,1
+unilever,1,1,1
+valocityglobal,1,1,1
+veralto,1,1,1
+vxi,1,1,1
+wf,1,1,1
+wikimedia,1,1,0
+woodmac,1,1,1
+zolve,1,1,1

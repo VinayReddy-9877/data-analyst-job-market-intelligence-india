@@ -1,0 +1,28 @@
+Data Analyst Job Market Intelligence: Skill, Experience & Salary Analytics — India
+==================================================================================
+
+Analytical vacancies: 4,035
+Job-skill rows: 6,213
+Unique skills: 44
+Skill extraction coverage: 43.22%
+Experience extraction coverage: 35.32%
+Salary analysis coverage: 2.73%
+
+Top role family: Business Analyst (1,541 postings)
+Top skill: SQL (850 postings)
+Top specific city: Bengaluru (1,073 postings)
+
+Salary observations: 110
+Salary median: ₹9.50L
+Salary mean: ₹11.64L
+Salary minimum: ₹2.70L
+Salary maximum: ₹42.00L
+
+SQL salary observations: 18
+Non-SQL salary observations: 92
+Observed SQL minus non-SQL median difference: ₹4.79L
+Bootstrap 95% CI: ₹-0.75L to ₹11.00L
+Bootstrap conclusion: Inconclusive because the interval includes zero
+
+Trend slopes are descriptive short-window signals and are not forecasts.
+Salary associations are descriptive and are not causal claims.

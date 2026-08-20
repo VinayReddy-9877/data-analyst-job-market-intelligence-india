@@ -1,0 +1,771 @@
+skill_1,skill_2,jobs_with_pair
+Python,SQL,420
+Power BI,SQL,383
+Excel,SQL,330
+SQL,Tableau,323
+Power BI,Tableau,271
+Excel,Power BI,262
+Power BI,Python,253
+SQL,Statistics,234
+Python,Tableau,225
+Python,Statistics,196
+Excel,Tableau,185
+Excel,Python,182
+Excel,Statistics,150
+Power BI,Statistics,148
+Data Modeling,SQL,147
+Statistics,Tableau,144
+ETL,SQL,123
+Data Modeling,Power BI,117
+Jira,SQL,113
+SQL,Snowflake,113
+Machine Learning,Python,104
+Machine Learning,SQL,101
+AWS,SQL,93
+Azure,SQL,90
+Data Modeling,Python,90
+Data Warehousing,SQL,90
+ETL,Python,89
+AWS,Python,86
+Excel,Forecasting,81
+Forecasting,SQL,81
+Azure,Power BI,80
+Python,Snowflake,79
+Forecasting,Power BI,77
+Looker,SQL,77
+Excel,Jira,76
+ETL,Power BI,75
+Databricks,SQL,74
+Looker,Tableau,74
+Machine Learning,Power BI,71
+Data Modeling,Excel,69
+Machine Learning,Statistics,68
+Power BI,Snowflake,68
+Data Modeling,Statistics,67
+Power BI,SAP,67
+Azure,Python,65
+Forecasting,Python,65
+Data Warehousing,Power BI,64
+SQL,Spark,64
+DAX,Power BI,62
+Databricks,Python,62
+Data Modeling,Tableau,61
+AWS,Azure,60
+Git,SQL,59
+Jira,Power BI,59
+Looker,Power BI,59
+Excel,SAP,58
+Git,Python,58
+ETL,Tableau,57
+Python,Spark,57
+DAX,SQL,56
+Looker,Python,56
+Snowflake,Tableau,56
+AWS,Power BI,55
+Machine Learning,Tableau,55
+A/B Testing,SQL,54
+Forecasting,Statistics,53
+Data Warehousing,Python,52
+Databricks,Power BI,52
+Power BI,Power Query,51
+SQL,SQL Server,50
+AWS,Tableau,49
+SAP,SQL,49
+Alteryx,SQL,48
+Data Modeling,ETL,48
+ETL,Statistics,48
+Data Warehousing,Tableau,47
+Forecasting,Tableau,47
+Data Warehousing,ETL,46
+Azure,Jira,45
+DAX,Data Modeling,45
+Pandas,Python,45
+A/B Testing,Python,44
+Data Modeling,Snowflake,43
+Jira,Python,43
+Pandas,SQL,43
+Power Query,SQL,43
+AWS,GCP,41
+Alteryx,Excel,41
+Data Modeling,Data Warehousing,41
+Jira,Tableau,41
+A/B Testing,Tableau,40
+Databricks,Statistics,40
+GCP,SQL,40
+Azure,Statistics,39
+ETL,Excel,39
+Excel,Power Query,39
+Spark,Statistics,39
+GCP,Python,38
+SAS,SQL,38
+Alteryx,Tableau,37
+Azure,ETL,37
+A/B Testing,Power BI,36
+AWS,ETL,35
+Azure,GCP,35
+Databricks,Spark,35
+Azure,Tableau,34
+Python,SAS,34
+A/B Testing,Statistics,33
+AWS,Jira,33
+AWS,Statistics,33
+Azure,Data Modeling,32
+Databricks,Snowflake,32
+Databricks,Tableau,32
+Excel,Machine Learning,32
+Looker,Statistics,32
+Power BI,SQL Server,32
+Qlik,Tableau,32
+Alteryx,Power BI,31
+BigQuery,SQL,31
+Data Warehousing,Statistics,31
+Qlik,SQL,31
+SAS,Statistics,31
+Azure,Databricks,30
+DAX,Power Query,30
+Data Warehousing,Snowflake,30
+Pandas,Power BI,30
+Regression,SQL,30
+Snowflake,Statistics,30
+AWS,Data Modeling,29
+ELT,ETL,29
+ELT,SQL,29
+ETL,Snowflake,29
+Spark,Tableau,29
+AWS,Snowflake,28
+Alteryx,Python,28
+Power BI,Spark,28
+Python,Regression,28
+SQL,dbt,28
+Excel,Looker,27
+NumPy,Pandas,27
+NumPy,Python,27
+Python,SAP,27
+Python,dbt,27
+Redshift,SQL,27
+Azure,Data Warehousing,26
+DAX,Python,26
+Data Modeling,Jira,26
+Data Modeling,Power Query,26
+Data Warehousing,Excel,26
+Pandas,Statistics,26
+SAS,Tableau,26
+BigQuery,Python,25
+Data Modeling,Forecasting,25
+NumPy,SQL,25
+Pandas,Tableau,25
+A/B Testing,Looker,24
+AWS,Git,24
+Azure,Excel,24
+Data Modeling,Machine Learning,24
+GCP,Power BI,24
+Machine Learning,Snowflake,24
+Power BI,Qlik,24
+SAP,Tableau,24
+AWS,Databricks,23
+BigQuery,Tableau,23
+DAX,Excel,23
+Databricks,Excel,23
+Excel,Qlik,23
+Git,Power BI,23
+Python,SQL Server,23
+AWS,Excel,22
+Azure,DAX,22
+Azure,Forecasting,22
+Azure,Git,22
+Databricks,Jira,22
+ELT,Python,22
+Forecasting,SAP,22
+Git,Tableau,22
+Hadoop,SQL,22
+Azure,Snowflake,21
+BigQuery,Looker,21
+Data Modeling,Databricks,21
+Git,Jira,21
+Git,Statistics,21
+Python,Qlik,21
+Python,Redshift,21
+Redshift,Tableau,21
+Azure,Spark,20
+ETL,Machine Learning,20
+Forecasting,Machine Learning,20
+NumPy,Power BI,20
+Regression,Statistics,20
+Snowflake,dbt,20
+Azure,Machine Learning,19
+ETL,Git,19
+GCP,Tableau,19
+Git,Snowflake,19
+Jira,Statistics,19
+Machine Learning,Spark,19
+Regression,Tableau,19
+BigQuery,Power BI,18
+DAX,Statistics,18
+Data Warehousing,Looker,18
+Databricks,Machine Learning,18
+Excel,SQL Server,18
+Hadoop,Python,18
+Jira,Machine Learning,18
+Looker,Snowflake,18
+NumPy,Statistics,18
+AWS,Data Warehousing,17
+DAX,ETL,17
+Data Modeling,Git,17
+Data Modeling,Looker,17
+Data Modeling,SAP,17
+Databricks,ETL,17
+Databricks,Forecasting,17
+Excel,Snowflake,17
+Forecasting,Power Query,17
+Power BI,Regression,17
+Power BI,dbt,17
+SAP,Statistics,17
+Tableau,dbt,17
+Azure,SQL Server,16
+Data Modeling,dbt,16
+Data Warehousing,Databricks,16
+ETL,Jira,16
+Excel,Regression,16
+Forecasting,Jira,16
+Forecasting,Looker,16
+GCP,Statistics,16
+Git,Spark,16
+A/B Testing,Excel,15
+AWS,Machine Learning,15
+Alteryx,Statistics,15
+Databricks,Git,15
+Excel,Pandas,15
+Excel,Spark,15
+Forecasting,Regression,15
+Hadoop,Spark,15
+NumPy,Tableau,15
+PostgreSQL,SQL,15
+Power Query,Python,15
+Power Query,Statistics,15
+SQL Server,Tableau,15
+AWS,Forecasting,14
+Airflow,Python,14
+Airflow,SQL,14
+DAX,Forecasting,14
+Data Modeling,Spark,14
+ETL,Redshift,14
+ETL,SQL Server,14
+ETL,Spark,14
+Excel,SAS,14
+Forecasting,Spark,14
+Jira,Snowflake,14
+Machine Learning,Regression,14
+MySQL,SQL,14
+Oracle,Statistics,14
+A/B Testing,Machine Learning,13
+AWS,Redshift,13
+AWS,Spark,13
+Alteryx,Data Modeling,13
+DAX,Data Warehousing,13
+Data Modeling,GCP,13
+Data Warehousing,Git,13
+ELT,Power BI,13
+ETL,GCP,13
+ETL,Power Query,13
+Forecasting,Snowflake,13
+Git,Machine Learning,13
+Git,dbt,13
+Jira,Spark,13
+Machine Learning,SAS,13
+Redshift,Snowflake,13
+A/B Testing,Data Modeling,12
+A/B Testing,Forecasting,12
+AWS,ELT,12
+BigQuery,Data Modeling,12
+BigQuery,Data Warehousing,12
+BigQuery,Statistics,12
+Data Modeling,SQL Server,12
+Data Warehousing,Machine Learning,12
+Databricks,Oracle,12
+ETL,Looker,12
+ETL,SAP,12
+Excel,Git,12
+Forecasting,Git,12
+Oracle,Spark,12
+Power BI,Redshift,12
+Power BI,SAS,12
+Qlik,Statistics,12
+SQL,SSIS,12
+SQL Server,Statistics,12
+Azure,ELT,11
+Azure,Power Query,11
+BigQuery,Redshift,11
+BigQuery,Snowflake,11
+DAX,Snowflake,11
+Data Modeling,Regression,11
+ETL,Forecasting,11
+Excel,GCP,11
+Excel,NumPy,11
+GCP,Jira,11
+Git,Looker,11
+Jira,SAP,11
+Looker,dbt,11
+Power BI,SSIS,11
+SQL Server,Snowflake,11
+A/B Testing,Snowflake,10
+AWS,DAX,10
+Airflow,Power BI,10
+Airflow,Tableau,10
+Alteryx,Forecasting,10
+BigQuery,ETL,10
+Data Modeling,ELT,10
+Data Modeling,Redshift,10
+Data Warehousing,GCP,10
+Data Warehousing,Jira,10
+Data Warehousing,Redshift,10
+Data Warehousing,SQL Server,10
+ELT,Snowflake,10
+ETL,SSIS,10
+Jira,Regression,10
+Looker,Redshift,10
+Pandas,Spark,10
+Power Query,Tableau,10
+Python,SSIS,10
+Snowflake,Spark,10
+A/B Testing,Spark,9
+AWS,Looker,9
+AWS,dbt,9
+Alteryx,ETL,9
+Alteryx,Snowflake,9
+Azure,SAP,9
+BigQuery,Excel,9
+Data Warehousing,SAP,9
+Data Warehousing,Spark,9
+Data Warehousing,dbt,9
+ELT,Git,9
+ELT,Tableau,9
+Forecasting,Pandas,9
+GCP,Git,9
+GCP,Looker,9
+GCP,Snowflake,9
+Hadoop,Statistics,9
+Jira,SQL Server,9
+Looker,Machine Learning,9
+Machine Learning,NumPy,9
+Machine Learning,Pandas,9
+MySQL,Python,9
+MySQL,Tableau,9
+Oracle,SQL,9
+PostgreSQL,Python,9
+Redshift,Statistics,9
+Statistics,dbt,9
+A/B Testing,Regression,8
+Airflow,ETL,8
+Airflow,dbt,8
+Azure,Pandas,8
+BigQuery,Git,8
+DAX,Databricks,8
+DAX,Tableau,8
+Data Modeling,Pandas,8
+Data Warehousing,Power Query,8
+Databricks,Looker,8
+Databricks,Redshift,8
+Excel,Redshift,8
+Git,Pandas,8
+Jira,Looker,8
+Jira,Pandas,8
+Pandas,Snowflake,8
+SAP,Snowflake,8
+A/B Testing,BigQuery,7
+A/B Testing,Pandas,7
+Airflow,Data Modeling,7
+Alteryx,DAX,7
+Alteryx,Jira,7
+Azure,Oracle,7
+Azure,SSIS,7
+BigQuery,dbt,7
+DAX,GCP,7
+DAX,Jira,7
+DAX,SQL Server,7
+Data Modeling,NumPy,7
+Data Modeling,Qlik,7
+Databricks,Pandas,7
+ELT,Jira,7
+ETL,Qlik,7
+ETL,dbt,7
+Excel,PostgreSQL,7
+Forecasting,NumPy,7
+GCP,Machine Learning,7
+Hadoop,Tableau,7
+Looker,Regression,7
+Machine Learning,Qlik,7
+Machine Learning,SQL Server,7
+MySQL,Statistics,7
+PostgreSQL,Power BI,7
+PostgreSQL,Statistics,7
+PostgreSQL,Tableau,7
+Power Query,SAP,7
+Qlik,Spark,7
+Regression,SAP,7
+AWS,Pandas,6
+AWS,SQL Server,6
+Airflow,Git,6
+Airflow,Snowflake,6
+Airflow,Statistics,6
+Alteryx,Power Query,6
+Alteryx,Qlik,6
+Alteryx,SAP,6
+Azure,dbt,6
+BigQuery,Forecasting,6
+BigQuery,GCP,6
+DAX,SAP,6
+Data Modeling,Hadoop,6
+Data Warehousing,ELT,6
+Databricks,GCP,6
+Databricks,Qlik,6
+ELT,GCP,6
+ELT,Spark,6
+ELT,Statistics,6
+Excel,MySQL,6
+GCP,Spark,6
+Git,NumPy,6
+Hadoop,Machine Learning,6
+Hadoop,Power BI,6
+Looker,Pandas,6
+Machine Learning,SAP,6
+MySQL,Power BI,6
+Pandas,Regression,6
+R,Tableau,6
+SAS,Spark,6
+A/B Testing,Data Warehousing,5
+A/B Testing,Databricks,5
+A/B Testing,NumPy,5
+A/B Testing,Redshift,5
+A/B Testing,SAS,5
+AWS,Airflow,5
+AWS,Hadoop,5
+AWS,NumPy,5
+AWS,Power Query,5
+AWS,SAP,5
+Airflow,Looker,5
+Azure,Looker,5
+Azure,NumPy,5
+Azure,Qlik,5
+Azure,Regression,5
+BigQuery,Databricks,5
+BigQuery,Machine Learning,5
+BigQuery,Regression,5
+DAX,Machine Learning,5
+Data Modeling,SAS,5
+Data Modeling,SSIS,5
+Data Warehousing,PostgreSQL,5
+Databricks,ELT,5
+Databricks,Hadoop,5
+Databricks,SQL Server,5
+Databricks,dbt,5
+ELT,Machine Learning,5
+ETL,Pandas,5
+ETL,SAS,5
+Excel,Hadoop,5
+Excel,dbt,5
+Forecasting,Qlik,5
+Forecasting,SAS,5
+Forecasting,dbt,5
+GCP,Pandas,5
+GCP,Redshift,5
+Git,Hadoop,5
+Git,Regression,5
+Git,SQL Server,5
+Jira,Power Query,5
+Jira,Qlik,5
+Jira,Redshift,5
+Machine Learning,dbt,5
+MySQL,PostgreSQL,5
+NumPy,Regression,5
+Pandas,SciPy,5
+PostgreSQL,SQL Server,5
+Python,SPSS,5
+Python,SciPy,5
+Redshift,dbt,5
+SQL,SciPy,5
+SciPy,Statistics,5
+A/B Testing,AWS,4
+A/B Testing,ETL,4
+A/B Testing,Git,4
+A/B Testing,Jira,4
+A/B Testing,dbt,4
+AWS,Alteryx,4
+AWS,Qlik,4
+AWS,SAS,4
+Airflow,Azure,4
+Airflow,Forecasting,4
+Alteryx,Databricks,4
+Alteryx,Redshift,4
+Azure,Hadoop,4
+BigQuery,Spark,4
+DAX,Git,4
+DAX,SSIS,4
+Data Modeling,PostgreSQL,4
+Data Warehousing,Forecasting,4
+Data Warehousing,SSIS,4
+Databricks,Power Query,4
+Databricks,Regression,4
+ETL,NumPy,4
+ETL,Regression,4
+Forecasting,GCP,4
+GCP,NumPy,4
+GCP,Power Query,4
+Git,Redshift,4
+Hadoop,Jira,4
+Hadoop,Qlik,4
+Looker,NumPy,4
+Looker,Qlik,4
+Looker,Spark,4
+NumPy,SciPy,4
+NumPy,Spark,4
+Pandas,PostgreSQL,4
+Power BI,R,4
+Power BI,SciPy,4
+Python,R,4
+Qlik,Redshift,4
+Qlik,SQL Server,4
+Qlik,Snowflake,4
+R,SQL,4
+Redshift,Spark,4
+Regression,SAS,4
+Regression,Spark,4
+SPSS,SQL,4
+SPSS,Statistics,4
+SPSS,Tableau,4
+SSIS,Snowflake,4
+SSIS,Tableau,4
+SciPy,Tableau,4
+A/B Testing,Airflow,3
+AWS,MySQL,3
+AWS,Regression,3
+AWS,SSIS,3
+Airflow,BigQuery,3
+Airflow,Excel,3
+Airflow,GCP,3
+Airflow,Redshift,3
+Airflow,Spark,3
+Alteryx,Azure,3
+Alteryx,Data Warehousing,3
+Alteryx,Looker,3
+Azure,Redshift,3
+Azure,SAS,3
+BigQuery,Jira,3
+BigQuery,NumPy,3
+BigQuery,Pandas,3
+BigQuery,SQL Server,3
+DAX,Pandas,3
+DAX,Spark,3
+DAX,dbt,3
+Data Modeling,MySQL,3
+Data Warehousing,MySQL,3
+Data Warehousing,Pandas,3
+Data Warehousing,Qlik,3
+Data Warehousing,SAS,3
+Databricks,SAS,3
+ELT,Excel,3
+ELT,Looker,3
+ELT,Redshift,3
+ETL,MySQL,3
+ETL,Oracle,3
+ETL,PostgreSQL,3
+Excel,Oracle,3
+Excel,R,3
+Excel,SPSS,3
+Forecasting,Oracle,3
+Forecasting,SQL Server,3
+GCP,Hadoop,3
+GCP,Qlik,3
+GCP,Regression,3
+GCP,SAP,3
+GCP,SSIS,3
+GCP,dbt,3
+Hadoop,SAS,3
+Jira,dbt,3
+Looker,Power Query,3
+Machine Learning,Power Query,3
+MySQL,SQL Server,3
+NumPy,PostgreSQL,3
+NumPy,Power Query,3
+NumPy,Qlik,3
+NumPy,Snowflake,3
+Oracle,Power BI,3
+Pandas,Power Query,3
+Pandas,Qlik,3
+Pandas,SAP,3
+Pandas,SQL Server,3
+Pandas,dbt,3
+Power Query,SSIS,3
+Power Query,Snowflake,3
+Qlik,SAS,3
+R,Statistics,3
+Redshift,SQL Server,3
+Regression,Snowflake,3
+SAS,SPSS,3
+SAS,SQL Server,3
+SQL Server,SSIS,3
+A/B Testing,Alteryx,2
+A/B Testing,Azure,2
+A/B Testing,ELT,2
+AWS,BigQuery,2
+AWS,R,2
+Airflow,DAX,2
+Airflow,Data Warehousing,2
+Airflow,Databricks,2
+Airflow,ELT,2
+Airflow,Machine Learning,2
+Airflow,Regression,2
+Alteryx,BigQuery,2
+Alteryx,ELT,2
+Alteryx,GCP,2
+Alteryx,Machine Learning,2
+Alteryx,R,2
+Alteryx,Spark,2
+Azure,BigQuery,2
+Azure,MySQL,2
+BigQuery,ELT,2
+BigQuery,PostgreSQL,2
+BigQuery,Qlik,2
+DAX,NumPy,2
+DAX,Regression,2
+Data Modeling,R,2
+Data Warehousing,Hadoop,2
+Data Warehousing,NumPy,2
+Databricks,SAP,2
+ELT,Pandas,2
+ELT,SQL Server,2
+Excel,SSIS,2
+Forecasting,Hadoop,2
+Forecasting,Redshift,2
+Forecasting,SPSS,2
+GCP,PostgreSQL,2
+GCP,R,2
+GCP,SAS,2
+GCP,SQL Server,2
+Git,SciPy,2
+Hadoop,Snowflake,2
+Jira,NumPy,2
+Looker,MySQL,2
+Looker,PostgreSQL,2
+Machine Learning,R,2
+Machine Learning,SPSS,2
+Machine Learning,SSIS,2
+MySQL,Pandas,2
+MySQL,SAS,2
+MySQL,Snowflake,2
+NumPy,SAP,2
+NumPy,SAS,2
+NumPy,SQL Server,2
+NumPy,dbt,2
+Oracle,Python,2
+Oracle,SQL Server,2
+Oracle,Tableau,2
+Pandas,SAS,2
+Power Query,Regression,2
+Power Query,SQL Server,2
+Power Query,Spark,2
+Qlik,SAP,2
+R,Redshift,2
+R,Snowflake,2
+Regression,dbt,2
+SAP,SQL Server,2
+SAP,SSIS,2
+SAP,Spark,2
+SAS,Snowflake,2
+SSIS,Spark,2
+SSIS,Statistics,2
+A/B Testing,DAX,1
+A/B Testing,Hadoop,1
+A/B Testing,SPSS,1
+A/B Testing,SQL Server,1
+A/B Testing,SciPy,1
+AWS,PostgreSQL,1
+AWS,SPSS,1
+AWS,SciPy,1
+Airflow,Hadoop,1
+Airflow,Jira,1
+Airflow,MySQL,1
+Airflow,PostgreSQL,1
+Alteryx,Hadoop,1
+Alteryx,SQL Server,1
+Alteryx,SSIS,1
+Azure,PostgreSQL,1
+Azure,SciPy,1
+BigQuery,DAX,1
+BigQuery,MySQL,1
+BigQuery,Power Query,1
+BigQuery,SAP,1
+DAX,Looker,1
+DAX,MySQL,1
+DAX,PostgreSQL,1
+DAX,Qlik,1
+DAX,R,1
+Data Modeling,Oracle,1
+Data Warehousing,Oracle,1
+Data Warehousing,Regression,1
+Databricks,NumPy,1
+Databricks,SSIS,1
+ELT,Hadoop,1
+ELT,NumPy,1
+ELT,Power Query,1
+ELT,Qlik,1
+ELT,Regression,1
+ELT,SAP,1
+ELT,SSIS,1
+ELT,dbt,1
+ETL,Hadoop,1
+ETL,SPSS,1
+Excel,SciPy,1
+Forecasting,SciPy,1
+GCP,MySQL,1
+GCP,Oracle,1
+Git,Oracle,1
+Git,Power Query,1
+Git,Qlik,1
+Git,SAP,1
+Git,SAS,1
+Git,SSIS,1
+Hadoop,NumPy,1
+Hadoop,Pandas,1
+Hadoop,SQL Server,1
+Jira,MySQL,1
+Jira,SSIS,1
+Looker,SAP,1
+Looker,SAS,1
+Looker,SPSS,1
+Looker,SQL Server,1
+Looker,SSIS,1
+Looker,SciPy,1
+Machine Learning,MySQL,1
+Machine Learning,PostgreSQL,1
+Machine Learning,Redshift,1
+Machine Learning,SciPy,1
+MySQL,NumPy,1
+MySQL,Qlik,1
+MySQL,Redshift,1
+MySQL,Regression,1
+MySQL,SPSS,1
+MySQL,dbt,1
+NumPy,Redshift,1
+Oracle,SAP,1
+Oracle,SAS,1
+Pandas,Redshift,1
+PostgreSQL,Redshift,1
+PostgreSQL,Snowflake,1
+PostgreSQL,dbt,1
+Power BI,SPSS,1
+Power Query,Qlik,1
+Power Query,SciPy,1
+Qlik,Regression,1
+Qlik,SSIS,1
+Qlik,dbt,1
+R,Regression,1
+R,SAP,1
+Redshift,SAP,1
+Redshift,SAS,1
+Redshift,SPSS,1
+Regression,SPSS,1
+Regression,SQL Server,1
+SAP,SciPy,1
+SAS,SSIS,1
+SPSS,SQL Server,1
+SQL Server,Spark,1

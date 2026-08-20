@@ -1,0 +1,38 @@
+﻿metric,value
+Analytical Vacancies,4035.0
+Unique Companies,1364.0
+Skill-Tagged Jobs,1744.0
+Skill Coverage %,0.4322180916976456
+Experience-Labeled Jobs,1425.0
+Experience Coverage %,0.35315985130111527
+Experience Not Specified,2610.0
+Salary Observations,110.0
+Salary Coverage %,0.027261462205700124
+Salary Source Observations,121.0
+Salary Source Coverage %,0.029987608426270136
+Median Salary (₹L),9.5
+Mean Salary (₹L),11.635045454545454
+Minimum Salary (₹L),2.7
+P25 Salary (₹L),5.425
+P75 Salary (₹L),16.375
+Maximum Salary (₹L),42.0
+Recent 90D Jobs,3480.0
+Pre-90D Jobs,555.0
+Complete Week Jobs,4034.0
+Complete Weeks,32.0
+Unique Skills,44.0
+Job-Skill Rows,6213.0
+Specific City Vacancies,3079.0
+Unique Specific Cities,96.0
+Other Analyst Jobs,388.0
+Other Analyst Share %,0.09615861214374226
+Top 5 Employer Jobs,490.0
+Top 5 Employer Share %,0.12143742255266418
+SQL Salary Observations,18.0
+Non-SQL Salary Observations,92.0
+SQL Median Salary (₹L),13.4125
+Non-SQL Median Salary (₹L),8.625
+Observed SQL Median Difference (₹L),4.7875
+Bootstrap CI Lower (₹L),-0.75
+Bootstrap CI Upper (₹L),11.0
+Bootstrap Iterations,50000.0

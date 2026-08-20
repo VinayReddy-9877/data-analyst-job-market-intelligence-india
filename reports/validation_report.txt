@@ -1,0 +1,19 @@
+DATA ANALYST JOB MARKET INTELLIGENCE
+ANALYTICAL VALIDATION
+========================================================================
+
+unique_vacancies: 4,035
+job_skill_rows: 6,213
+unique_skills: 44
+experience_labeled: 1,425
+experience_not_specified: 2,610
+specific_city_vacancies: 3,079
+city_not_specified: 935
+known_employer_vacancies: 4,032
+unique_known_employers: 1,364
+salary_analysis_eligible: 110
+recent_90d_start_date: 2026-05-19
+recent_90d_vacancies: 3,480
+complete_week_vacancies: 4,034
+
+status: PASS

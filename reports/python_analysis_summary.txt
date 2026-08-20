@@ -1,0 +1,28 @@
+DATA ANALYST JOB MARKET INTELLIGENCE
+PYTHON ANALYSIS SUMMARY
+========================================================================
+
+unique_vacancies: 4,046
+skill_tagged_vacancies: 1,749
+skill_coverage_pct: 43.23
+experience_labeled_vacancies: 1,427
+experience_coverage_pct: 35.27
+experience_not_specified: 2,619
+specific_city_vacancies: 3,090
+specific_city_coverage_pct: 76.37
+known_employer_vacancies: 4,043
+known_employer_coverage_pct: 99.93
+salary_analysis_n: 129
+salary_analysis_coverage_pct: 3.19
+other_analyst_share_pct: 9.59
+top_5_employer_share_pct: 12.12
+recent_90d_start_date: 2026-05-19
+recent_90d_vacancies: 3,491
+complete_week_vacancies: 4,045
+complete_weeks: 32
+sql_salary_n: 18
+non_sql_salary_n: 111
+sql_minus_non_sql_median_difference_inr: 661,250.00
+bootstrap_95_ci_low_inr: 150,000.00
+bootstrap_95_ci_high_inr: 1,250,000.00
+bootstrap_interpretation: The 95% bootstrap interval excludes zero.

@@ -1,0 +1,45 @@
+﻿skill,skill_category,job_count,share_pct
+SQL,Database / Query,850,21.07
+Excel,Spreadsheet,624,15.46
+Power BI,BI / Visualization,586,14.52
+Python,Programming,527,13.06
+Tableau,BI / Visualization,420,10.41
+Statistics,Statistics / Analytics,354,8.77
+Jira,Collaboration Tool,227,5.63
+SAP,Enterprise Tool,207,5.13
+Forecasting,Statistics / Analytics,195,4.83
+Data Modeling,Data Engineering,192,4.76
+Azure,Cloud,163,4.04
+Machine Learning,Machine Learning,158,3.92
+ETL,Data Engineering,151,3.74
+AWS,Cloud,141,3.49
+Snowflake,Cloud / Warehouse,132,3.27
+Data Warehousing,Data Engineering,106,2.63
+Databricks,Data Engineering,105,2.6
+Looker,BI / Visualization,88,2.18
+Spark,Data Engineering,84,2.08
+Git,Developer Tool,77,1.91
+A/B Testing,Statistics / Analytics,74,1.83
+DAX,BI / Visualization,65,1.61
+GCP,Cloud,63,1.56
+Regression,Statistics / Analytics,61,1.51
+Alteryx,Analytics Tool,60,1.49
+Power Query,BI / Visualization,56,1.39
+SQL Server,Database / Query,50,1.24
+SAS,Statistics / Analytics,46,1.14
+Pandas,Programming,45,1.12
+Qlik,BI / Visualization,42,1.04
+BigQuery,Cloud / Warehouse,33,0.82
+ELT,Data Engineering,30,0.74
+dbt,Data Engineering,29,0.72
+Redshift,Cloud / Warehouse,28,0.69
+NumPy,Programming,27,0.67
+Hadoop,Data Engineering,23,0.57
+Oracle,Database / Query,19,0.47
+PostgreSQL,Database / Query,17,0.42
+Airflow,Data Engineering,14,0.35
+MySQL,Database / Query,14,0.35
+SSIS,Data Engineering,13,0.32
+R,Programming,6,0.15
+SPSS,Statistics / Analytics,6,0.15
+SciPy,Programming,5,0.12

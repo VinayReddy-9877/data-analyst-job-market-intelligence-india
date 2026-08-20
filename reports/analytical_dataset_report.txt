@@ -1,0 +1,27 @@
+DATA ANALYST JOB MARKET INTELLIGENCE
+ANALYTICAL DATASET REPORT
+==============================================================================
+
+raw_unique_vacancies: 4,046
+non_production_postings_excluded: 11
+processed_job_rows: 4,035
+skill_bridge_rows: 6,213
+unique_skills: 44
+role_other_share_pct: 9.62
+skill_job_coverage_pct: 43.22
+experience_extraction_coverage_pct: 35.32
+experience_not_specified_rows: 2,610
+city_not_specified_rows: 935
+known_company_rows: 4,032
+salary_source_coverage_pct: 3.00
+salary_analysis_eligible_coverage_pct: 2.73
+salary_ambiguous_period_rows: 10
+salary_annualized_rows: 4
+recent_90d_start_date: 2026-05-19
+recent_90d_rows: 3,480
+complete_week_rows: 4,034
+
+clean_file: data/processed/job_postings_clean.csv
+skill_bridge_file: data/processed/job_skills_bridge.csv
+role_audit_file: reports/role_scope_audit.csv
+skill_coverage_file: reports/skill_coverage_report.csv

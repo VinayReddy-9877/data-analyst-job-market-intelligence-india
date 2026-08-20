@@ -1,0 +1,130 @@
+// Data Analyst Job Market Intelligence — Power BI DAX Measures
+// These measures are implemented in the semantic model TMDL and used by the dashboard.
+
+// =============================
+// Core KPIs
+// =============================
+Analytical Vacancies = DISTINCTCOUNT(Jobs[Job ID])
+Unique Companies = CALCULATE(DISTINCTCOUNT(Jobs[Company]), Jobs[Company] <> "Unknown Company")
+Skill-Tagged Jobs = CALCULATE([Analytical Vacancies], Jobs[Has Extracted Skill] = TRUE())
+Skill Extraction Coverage % = DIVIDE([Skill-Tagged Jobs], [Analytical Vacancies])
+Experience-Labeled Jobs = CALCULATE([Analytical Vacancies], FILTER(Jobs, NOT ISBLANK(Jobs[Experience Min Years])))
+Experience Extraction Coverage % = DIVIDE([Experience-Labeled Jobs], [Analytical Vacancies])
+Salary Observations = CALCULATE([Analytical Vacancies], Jobs[Salary Analysis Eligible] = TRUE())
+Salary Analysis Coverage % = DIVIDE([Salary Observations], [Analytical Vacancies])
+Specific City Vacancies = CALCULATE([Analytical Vacancies], Jobs[Location Scope] = "Specific City")
+Unique Specific Cities = CALCULATE(DISTINCTCOUNT(Jobs[Specific City]), FILTER(Jobs, NOT ISBLANK(Jobs[Specific City])))
+
+// =============================
+// Salary
+// =============================
+Median Salary (₹L) = DIVIDE(CALCULATE(MEDIAN(Jobs[Salary Midpoint]), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+Mean Salary (₹L) = DIVIDE(CALCULATE(AVERAGE(Jobs[Salary Midpoint]), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+Minimum Salary (₹L) = DIVIDE(CALCULATE(MIN(Jobs[Salary Midpoint]), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+Maximum Salary (₹L) = DIVIDE(CALCULATE(MAX(Jobs[Salary Midpoint]), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+P25 Salary (₹L) = DIVIDE(CALCULATE(PERCENTILEX.INC(Jobs, Jobs[Salary Midpoint], 0.25), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+P75 Salary (₹L) = DIVIDE(CALCULATE(PERCENTILEX.INC(Jobs, Jobs[Salary Midpoint], 0.75), Jobs[Salary Analysis Eligible] = TRUE()), 100000)
+Salary Band Jobs = CALCULATE([Analytical Vacancies], Jobs[Salary Analysis Eligible] = TRUE())
+Median Salary n30 (₹L) = IF([Salary Observations] >= 30, [Median Salary (₹L)])
+Median Salary n20 (₹L) = IF([Salary Observations] >= 20, [Median Salary (₹L)])
+
+// =============================
+// Rankings and concentration
+// =============================
+Top 10 City Jobs =
+VAR CityValue = SELECTEDVALUE(Jobs[Specific City])
+VAR Rnk =
+    RANKX(
+        FILTER(ALLSELECTED(Jobs[Specific City]), NOT ISBLANK(Jobs[Specific City])),
+        [Analytical Vacancies],,
+        DESC,
+        Dense
+    )
+RETURN IF(NOT ISBLANK(CityValue) && Rnk <= 10, [Analytical Vacancies])
+
+Top 15 Company Jobs =
+VAR Rnk = RANKX(ALLSELECTED(Jobs[Company]), [Analytical Vacancies],, DESC, Dense)
+RETURN IF(Rnk <= 15, [Analytical Vacancies])
+
+Top 5 Employer Jobs =
+VAR EmployerJobs =
+    ADDCOLUMNS(
+        FILTER(ALLSELECTED(Jobs[Company]), Jobs[Company] <> "Unknown Company"),
+        "__Jobs", CALCULATE([Analytical Vacancies])
+    )
+VAR TopEmployers = TOPN(5, EmployerJobs, [__Jobs], DESC, Jobs[Company], ASC)
+RETURN SUMX(TopEmployers, [__Jobs])
+
+Top 5 Employer Share % = DIVIDE([Top 5 Employer Jobs], [Analytical Vacancies])
+Other Analyst Jobs = CALCULATE([Analytical Vacancies], Jobs[Role Family] = "Other Analyst")
+Other Analyst Share % = DIVIDE([Other Analyst Jobs], [Analytical Vacancies])
+
+// =============================
+// Skills
+// =============================
+Job-Skill Rows = COUNTROWS(Skills)
+Unique Skills = DISTINCTCOUNT(Skills[Skill])
+Skill Jobs = DISTINCTCOUNT(Skills[Job ID])
+Skill Share % = DIVIDE([Skill Jobs], [Analytical Vacancies])
+
+Top 15 Skill Jobs =
+VAR Rnk = RANKX(ALLSELECTED(Skills[Skill]), [Skill Jobs],, DESC, Dense)
+RETURN IF(Rnk <= 15, [Skill Jobs])
+
+Top 10 Skill Jobs =
+VAR Rnk = RANKX(ALLSELECTED(Skills[Skill]), [Skill Jobs],, DESC, Dense)
+RETURN IF(Rnk <= 10, [Skill Jobs])
+
+Recent Skill Share % = DIVIDE(CALCULATE([Skill Jobs], Jobs[Recent 90D] = TRUE()), CALCULATE([Analytical Vacancies], Jobs[Recent 90D] = TRUE()))
+Pre-90D Skill Share % = DIVIDE(CALCULATE([Skill Jobs], Jobs[Recent 90D] = FALSE()), CALCULATE([Analytical Vacancies], Jobs[Recent 90D] = FALSE()))
+Skill Share Change (pp) = ([Recent Skill Share %] - [Pre-90D Skill Share %]) * 100
+
+Recent Top 10 Skill Share % =
+VAR Rnk = RANKX(ALLSELECTED(Skills[Skill]), [Skill Jobs],, DESC, Dense)
+RETURN IF(Rnk <= 10, [Recent Skill Share %])
+
+Pre Top 10 Skill Share % =
+VAR Rnk = RANKX(ALLSELECTED(Skills[Skill]), [Skill Jobs],, DESC, Dense)
+RETURN IF(Rnk <= 10, [Pre-90D Skill Share %])
+
+// =============================
+// Skill co-occurrence
+// =============================
+Pair Jobs = DISTINCTCOUNT(SkillPairs[Job ID])
+Pair Share of Skill-Tagged Jobs % = DIVIDE([Pair Jobs], [Skill-Tagged Jobs])
+
+Top 10 Pair Jobs =
+VAR Rnk = RANKX(ALLSELECTED(SkillPairs[Skill Pair]), [Pair Jobs],, DESC, Dense)
+RETURN IF(Rnk <= 10, [Pair Jobs])
+
+// =============================
+// Trends
+// =============================
+Recent 90D Jobs = CALCULATE([Analytical Vacancies], Jobs[Recent 90D] = TRUE())
+Pre-90D Jobs = CALCULATE([Analytical Vacancies], Jobs[Recent 90D] = FALSE())
+Complete Week Jobs = CALCULATE([Analytical Vacancies], Jobs[Complete Week] = TRUE())
+Complete Weeks = CALCULATE(DISTINCTCOUNT(Jobs[Week Start]), Jobs[Complete Week] = TRUE())
+
+// =============================
+// SQL salary comparison
+// =============================
+SQL Salary Observations =
+VAR SQLJobs = CALCULATETABLE(VALUES(Skills[Job ID]), REMOVEFILTERS(Skills[Skill]), Skills[Skill] = "SQL")
+RETURN CALCULATE([Salary Observations], TREATAS(SQLJobs, Jobs[Job ID]))
+
+Non-SQL Salary Observations = [Salary Observations] - [SQL Salary Observations]
+
+SQL Median Salary (₹L) =
+VAR SQLJobs = CALCULATETABLE(VALUES(Skills[Job ID]), REMOVEFILTERS(Skills[Skill]), Skills[Skill] = "SQL")
+RETURN DIVIDE(CALCULATE(MEDIAN(Jobs[Salary Midpoint]), Jobs[Salary Analysis Eligible] = TRUE(), TREATAS(SQLJobs, Jobs[Job ID])), 100000)
+
+Non-SQL Median Salary (₹L) =
+VAR AllSalaryJobs = CALCULATETABLE(VALUES(Jobs[Job ID]), Jobs[Salary Analysis Eligible] = TRUE())
+VAR SQLJobs = CALCULATETABLE(VALUES(Skills[Job ID]), REMOVEFILTERS(Skills[Skill]), Skills[Skill] = "SQL")
+VAR NonSQLJobs = EXCEPT(AllSalaryJobs, SQLJobs)
+RETURN DIVIDE(CALCULATE(MEDIAN(Jobs[Salary Midpoint]), TREATAS(NonSQLJobs, Jobs[Job ID])), 100000)
+
+Observed SQL Median Difference (₹L) = [SQL Median Salary (₹L)] - [Non-SQL Median Salary (₹L)]
+Overall Bootstrap CI Lower (₹L) = -0.75
+Overall Bootstrap CI Upper (₹L) = 11.00
+Bootstrap Iterations = 50000

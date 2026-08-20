@@ -1,0 +1,29 @@
+period,role_family,job_count,period_total,role_share_pct
+Pre-90-day period,Analytics Analyst,5,555,0.9009009009009009
+Pre-90-day period,BI Analyst,25,555,4.504504504504505
+Pre-90-day period,Business Analyst,244,555,43.96396396396396
+Pre-90-day period,Data Analyst,124,555,22.34234234234234
+Pre-90-day period,Data Quality / Governance,12,555,2.1621621621621623
+Pre-90-day period,Insights / Customer Analytics,1,555,0.18018018018018017
+Pre-90-day period,Marketing Analytics,6,555,1.0810810810810811
+Pre-90-day period,Operations / Process Analytics,24,555,4.324324324324325
+Pre-90-day period,Other Analyst,48,555,8.64864864864865
+Pre-90-day period,Performance / Strategy,7,555,1.2612612612612613
+Pre-90-day period,Pricing / Revenue / Commercial,17,555,3.063063063063063
+Pre-90-day period,Product Analyst,15,555,2.7027027027027026
+Pre-90-day period,Reporting / MIS Analyst,8,555,1.4414414414414414
+Pre-90-day period,Risk / Quantitative Analytics,19,555,3.423423423423423
+Recent 90 days,Analytics Analyst,52,3491,1.4895445431108565
+Recent 90 days,BI Analyst,153,3491,4.38269836723002
+Recent 90 days,Business Analyst,1302,3491,37.29590375250644
+Recent 90 days,Data Analyst,712,3491,20.39530220567173
+Recent 90 days,Data Quality / Governance,104,3491,2.979089086221713
+Recent 90 days,Insights / Customer Analytics,16,3491,0.45832139788026355
+Recent 90 days,Marketing Analytics,28,3491,0.8020624462904613
+Recent 90 days,Operations / Process Analytics,306,3491,8.76539673446004
+Recent 90 days,Other Analyst,340,3491,9.7393297049556
+Recent 90 days,Performance / Strategy,25,3491,0.7161271841879118
+Recent 90 days,Pricing / Revenue / Commercial,71,3491,2.0338012030936694
+Recent 90 days,Product Analyst,116,3491,3.3228301346319107
+Recent 90 days,Reporting / MIS Analyst,110,3491,3.1509596104268116
+Recent 90 days,Risk / Quantitative Analytics,156,3491,4.46863362933257
